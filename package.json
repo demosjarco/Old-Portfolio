@@ -1,23 +1,29 @@
 {
-	"name": "demosjarco.dev",
-	"version": "1.0.0",
-	"description": "",
-	"main": "index.js",
-	"scripts": {
-		"less": "less-watch-compiler html/css html/css"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/demosjarco/Portfolio.git"
-	},
-	"author": "demosjarco",
-	"license": "UNLICENSED",
-	"private": true,
-	"bugs": {
-		"url": "https://github.com/demosjarco/Portfolio/issues"
-	},
-	"homepage": "https://github.com/demosjarco/Portfolio#readme",
-	"devDependencies": {
-		"less-watch-compiler": "^1.14.1"
-	}
+  "name": "demosjarco.dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "less": "less-watch-compiler html/css html/css",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demosjarco/Portfolio.git"
+  },
+  "author": "demosjarco",
+  "license": "UNLICENSED",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/demosjarco/Portfolio/issues"
+  },
+  "homepage": "https://github.com/demosjarco/Portfolio#readme",
+  "devDependencies": {
+    "less-watch-compiler": "^1.14.1"
+  },
+  "snyk": true,
+  "dependencies": {
+    "snyk": "^1.316.1"
+  }
 }
