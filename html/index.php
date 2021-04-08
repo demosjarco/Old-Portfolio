@@ -73,7 +73,7 @@ $fileName = basename(__FILE__, '.php');
 				<div class="darken"></div>
 				<div class="singlemsg"></div>
 				<span class="title">Salt River Project</span><span class="subtitle">Solution Center Intern</span>
-				<footer></footer>
+				<footer>Nov 2019 - Aug 2020</footer>
 			</div>
 			<div class="tile add">
 				<div class="background"></div>
