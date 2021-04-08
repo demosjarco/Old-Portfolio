@@ -78,8 +78,8 @@ $fileName = basename(__FILE__, '.php');
 			</div>
 			<div class="tile add">
 				<div class="background"></div>
-				<div class="singlemsg"></div>
-				<span class="title"></span><span class="subtitle"></span>
+				<div class="singlemsg">This list is too small, you can help expand it</div>
+				<span class="title"><a href="contact.php">Hire me!</a></span>
 				<footer></footer>
 			</div>
 		</div>
