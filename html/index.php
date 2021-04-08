@@ -47,21 +47,21 @@ $fileName = basename(__FILE__, '.php');
 				<div class="darken"></div>
 				<div class="singlemsg">University of Arizona</div>
 				<span class="title">BAS - Cyber Operations</span><span class="subtitle">Defense & Forensics</span>
-				<footer>August 2020 - May 2022</footer>
+				<footer>Aug 2020 - May 2022</footer>
 			</div>
 			<div class="tile gcc">
 				<div class="background"></div>
 				<div class="darken"></div>
 				<div class="singlemsg">Glendale Community College</div>
 				<span class="title">AAS - Information Security</span>
-				<footer>January 2019 - December 2019</footer>
+				<footer>Jan 2019 - Dec 2019</footer>
 			</div>
 			<div class="tile mcc">
 				<div class="background"></div>
 				<div class="darken"></div>
 				<div class="singlemsg">Mesa Community College</div>
 				<span class="title">AAS - Web Developer</span>
-				<footer>August 2017 - May 2019</footer>
+				<footer>Aug 2017 - May 2019</footer>
 			</div>
 		</div>
 	</section>
