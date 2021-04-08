@@ -41,7 +41,7 @@ $fileName = basename(__FILE__, '.php');
 	</div>
 	<section>
 		<span class="title">School</span>
-		<h2>School</h2>
+		<div class="tiles">
 		<div class="card">
 			<img src="images/gcc.png" class="card-img-top" />
 			<div class="card-body">
