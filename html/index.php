@@ -114,25 +114,6 @@ $fileName = basename(__FILE__, '.php');
 		<div class="row">
 			<div class="col-lg">
 				<div class="card">
-					<div class="card-body">
-						<p class="card-text">This list is too small, you can help expand it</p>
-						<a href="contact.php" class="btn btn-primary">Hire me!</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="container">
-		<div class="row">
-			<div class="col-lg">
-				<h2>Projects</h2>
-			</div>
-		</div>
-	</div>
-	<div class="container">
-		<div class="row">
-			<div class="col-lg">
-				<div class="card">
 					<img src="images/psbn.png" class="card-img-top" />
 					<div class="card-body">
 						<h5 class="card-title">PSBN</h5>
