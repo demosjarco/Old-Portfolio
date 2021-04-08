@@ -116,11 +116,17 @@ body section div.tiles div.tile div.darken {
   z-index: -1;
   background-color: rgba(0, 0, 0, 0.66666667);
 }
+body section div.tiles div.tile.ua div.background {
+  background-image: url("//placehold.it/250");
+}
 body section div.tiles div.tile.gcc div.background {
   background-image: url("../images/gcc.png");
 }
 body section div.tiles div.tile.mcc div.background {
   background-image: url("../images/mcc.png");
+}
+body section div.tiles div.tile.srp div.background {
+  background-image: url("//placehold.it/250");
 }
 body section div.tiles div.tile p {
   font-size: medium;
