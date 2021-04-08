@@ -72,8 +72,8 @@ $fileName = basename(__FILE__, '.php');
 			<div class="tile srp">
 				<div class="background"></div>
 				<div class="darken"></div>
-				<div class="singlemsg"></div>
-				<span class="title">Salt River Project</span><span class="subtitle">Solution Center Intern</span>
+				<div class="singlemsg">Salt River Project</div>
+				<span class="title">Solution Center Intern</span>
 				<footer>Nov 2019 - Aug 2020</footer>
 			</div>
 			<div class="tile add">
