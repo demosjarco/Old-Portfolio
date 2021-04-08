@@ -116,18 +116,6 @@ body section div.tiles div.tile div.darken {
   z-index: -1;
   background-color: rgba(0, 0, 0, 0.66666667);
 }
-body section div.tiles div.tile.ua div.background {
-  background-image: url("//placehold.it/250");
-}
-body section div.tiles div.tile.gcc div.background {
-  background-image: url("../images/gcc.png");
-}
-body section div.tiles div.tile.mcc div.background {
-  background-image: url("../images/mcc.png");
-}
-body section div.tiles div.tile.srp div.background {
-  background-image: url("//placehold.it/250");
-}
 body section div.tiles div.tile p {
   font-size: medium;
 }
@@ -158,9 +146,23 @@ body section div.tiles div.tile footer {
 body section.school div.tiles div.tile {
   color: white;
 }
+body section.school div.tiles div.tile.ua div.background {
+  background-image: url("//placehold.it/250");
+}
+body section.school div.tiles div.tile.gcc div.background {
+  background-image: url("../images/gcc.png");
+}
+body section.school div.tiles div.tile.mcc div.background {
+  background-image: url("../images/mcc.png");
+}
 body section.work div.tiles div.tile {
-  background-color: #03a9f4;
   color: white;
+}
+body section.work div.tiles div.tile.add div.background {
+  background-color: #03a9f4;
+}
+body section.work div.tiles div.tile.srp div.background {
+  background-image: url("//placehold.it/250");
 }
 body > div.container div.row {
   margin: 10px auto;

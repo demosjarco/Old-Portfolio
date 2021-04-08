@@ -148,30 +148,6 @@ body {
 					
 					background-color: rgba(0, 0, 0, 2/3);
 				}
-
-				&.ua {
-					div.background {
-						background-image: url("//placehold.it/250");
-					}
-				}
-				
-				&.gcc {
-					div.background {
-						background-image: url("../images/gcc.png");
-					}
-				}
-				
-				&.mcc {
-					div.background {
-						background-image: url("../images/mcc.png");
-					}
-				}
-
-				&.srp {
-					div.background {
-						background-image: url("//placehold.it/250");
-					}
-				}
 				
 				p {
 					font-size: medium;
@@ -212,6 +188,24 @@ body {
 			div.tiles {
 				div.tile {
 					color: white;
+
+					&.ua {
+						div.background {
+							background-image: url("//placehold.it/250");
+						}
+					}
+					
+					&.gcc {
+						div.background {
+							background-image: url("../images/gcc.png");
+						}
+					}
+					
+					&.mcc {
+						div.background {
+							background-image: url("../images/mcc.png");
+						}
+					}
 				}
 			}
 		}
@@ -219,8 +213,19 @@ body {
 		&.work {
 			div.tiles {
 				div.tile {
-					background-color: #03a9f4;
 					color: white;
+
+					&.add {
+						div.background {
+							background-color: #03a9f4;
+						}
+					}
+
+					&.srp {
+						div.background {
+							background-image: url("//placehold.it/250");
+						}
+					}
 				}
 			}
 		}
