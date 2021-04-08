@@ -162,7 +162,7 @@ body section.work div.tiles div.tile.add div.background {
   background-color: #03a9f4;
 }
 body section.work div.tiles div.tile.srp div.background {
-  background-image: url("//placehold.it/250");
+  background-image: url("https://placehold.it/250");
 }
 body > div.container div.row {
   margin: 10px auto;
