@@ -39,16 +39,18 @@ $fileName = basename(__FILE__, '.php');
 			<a href="https://stackoverflow.com/users/3745599/victor?tab=profile" target="_blank"><i class="fab fa-stack-overflow"></i></a>
 		</footer>
 	</div>
-	<h2>School</h2>
-	<div class="card">
-		<img src="images/gcc.png" class="card-img-top" />
-		<div class="card-body">
-			<h5 class="card-title">GCC</h5>
-			<h6 class="card-subtitle text-muted">Information Security (AAS)</h6>
-			<p class="card-text">I have taken a variety of classes from server setup and management of linux and windows, Cisco networking, and security baseics to OS applications. I am also part of the school's Cyber Club.</p>
+	<section>
+		<h2>School</h2>
+		<div class="card">
+			<img src="images/gcc.png" class="card-img-top" />
+			<div class="card-body">
+				<h5 class="card-title">GCC</h5>
+				<h6 class="card-subtitle text-muted">Information Security (AAS)</h6>
+				<p class="card-text">I have taken a variety of classes from server setup and management of linux and windows, Cisco networking, and security baseics to OS applications. I am also part of the school's Cyber Club.</p>
+			</div>
+			<div class="card-footer text-muted">January 2019 - December 2019</div>
 		</div>
-		<div class="card-footer text-muted">January 2019 - December 2019</div>
-	</div>
+	</section>
 	<!--<div class="container">
 		<div class="row">
 			<div class="col-lg">
