@@ -50,17 +50,6 @@ $fileName = basename(__FILE__, '.php');
 		<div class="row">
 			<div class="col-lg">
 				<div class="card">
-					<img src="images/mcc.png" class="card-img-top" />
-					<div class="card-body">
-						<h5 class="card-title">MCC</h5>
-						<h6 class="card-subtitle text-muted">Web Developer (AAS)</h6>
-						<p class="card-text">I have taken a variety of classes from server side languages, database setup and management, client side programming, and even use of common tools.</p>
-					</div>
-					<div class="card-footer text-muted">August 2017 - May 2019</div>
-				</div>
-			</div>
-			<div class="col-lg">
-				<div class="card">
 					<img src="images/gcc.png" class="card-img-top" />
 					<div class="card-body">
 						<h5 class="card-title">GCC</h5>
@@ -68,6 +57,17 @@ $fileName = basename(__FILE__, '.php');
 						<p class="card-text">I have taken a variety of classes from server setup and management of linux and windows, Cisco networking, and security baseics to OS applications. I am also part of the school's Cyber Club.</p>
 					</div>
 					<div class="card-footer text-muted">January 2019 - December 2019</div>
+				</div>
+			</div>
+			<div class="col-lg">
+				<div class="card">
+					<img src="images/mcc.png" class="card-img-top" />
+					<div class="card-body">
+						<h5 class="card-title">MCC</h5>
+						<h6 class="card-subtitle text-muted">Web Developer (AAS)</h6>
+						<p class="card-text">I have taken a variety of classes from server side languages, database setup and management, client side programming, and even use of common tools.</p>
+					</div>
+					<div class="card-footer text-muted">August 2017 - May 2019</div>
 				</div>
 			</div>
 		</div>
