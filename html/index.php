@@ -42,6 +42,26 @@ $fileName = basename(__FILE__, '.php');
 	<section>
 		<span class="title">School</span>
 		<div class="tiles">
+			<div class="tile">
+				<div class="background"></div>
+				<div class="darken"></div>
+				<span class="singlemsg"></span><span class="title"></span><span class="subtitle"></span>
+				<footer></footer>
+			</div>
+			<div class="tile gcc">
+				<div class="background"></div>
+				<div class="darken"></div>
+				<span class="singlemsg"></span><span class="title"></span><span class="subtitle"></span>
+				<footer></footer>
+			</div>
+			<div class="tile mcc">
+				<div class="background"></div>
+				<div class="darken"></div>
+				<span class="singlemsg"></span><span class="title"></span><span class="subtitle"></span>
+				<footer></footer>
+			</div>
+		</div>
+	</section>
 	<!--<div class="container">
 		<div class="row">
 			<div class="col-lg">
