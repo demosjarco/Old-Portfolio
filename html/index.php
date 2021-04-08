@@ -39,7 +39,7 @@ $fileName = basename(__FILE__, '.php');
 			<a href="https://stackoverflow.com/users/3745599/victor?tab=profile" target="_blank"><i class="fab fa-stack-overflow"></i></a>
 		</footer>
 	</div>
-	<section>
+	<section class="school">
 		<span class="title">School</span>
 		<div class="tiles">
 			<div class="tile">
