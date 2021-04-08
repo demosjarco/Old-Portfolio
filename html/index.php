@@ -45,19 +45,22 @@ $fileName = basename(__FILE__, '.php');
 			<div class="tile">
 				<div class="background"></div>
 				<div class="darken"></div>
-				<span class="singlemsg">Message</span><span class="title">Title</span><span class="subtitle">Subtitle</span>
+				<div class="singlemsg">Message</div>
+				<span class="title">Title</span><span class="subtitle">Subtitle</span>
 				<footer>Footer</footer>
 			</div>
 			<div class="tile gcc">
 				<div class="background"></div>
 				<div class="darken"></div>
-				<span class="singlemsg">Message</span><span class="title">Title</span><span class="subtitle">Subtitle</span>
+				<div class="singlemsg">Message</div>
+				<span class="title">Title</span><span class="subtitle">Subtitle</span>
 				<footer>Footer</footer>
 			</div>
 			<div class="tile mcc">
 				<div class="background"></div>
 				<div class="darken"></div>
-				<div class="singlemsg">Message</div><span class="title">Title</span><span class="subtitle">Subtitle</span>
+				<div class="singlemsg">Message</div>
+				<span class="title">Title</span><span class="subtitle">Subtitle</span>
 				<footer>Footer</footer>
 			</div>
 		</div>
