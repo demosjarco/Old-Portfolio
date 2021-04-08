@@ -40,6 +40,7 @@ $fileName = basename(__FILE__, '.php');
 		</footer>
 	</div>
 	<section>
+		<span class="title">School</span>
 		<h2>School</h2>
 		<div class="card">
 			<img src="images/gcc.png" class="card-img-top" />
