@@ -39,14 +39,8 @@ $fileName = basename(__FILE__, '.php');
 			<a href="https://stackoverflow.com/users/3745599/victor?tab=profile" target="_blank"><i class="fab fa-stack-overflow"></i></a>
 		</footer>
 	</div>
-	<div class="container">
-		<div class="row">
-			<div class="col-lg">
-				<h2>School</h2>
-			</div>
-		</div>
-	</div>
-	<div class="container">
+	<h2>School</h2>
+	<!--<div class="container">
 		<div class="row">
 			<div class="col-lg">
 				<div class="card">
@@ -133,7 +127,7 @@ $fileName = basename(__FILE__, '.php');
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 	<?php include_once("./parts/footer.html") ?>
 </body>
 </html>
