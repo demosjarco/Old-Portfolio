@@ -77,6 +77,32 @@ $fileName = basename(__FILE__, '.php');
 			</div>
 		</div>
 	</section>
+	<section class="projects">
+		<span class="title">Projects</span>
+		<div class="tiles">
+			<div class="tile">
+				<div class="background"></div>
+				<div class="darken"></div>
+				<div class="singlemsg"></div>
+				<span class="title"></span><span class="subtitle"></span>
+				<footer></footer>
+			</div>
+			<div class="tile">
+				<div class="background"></div>
+				<div class="darken"></div>
+				<div class="singlemsg"></div>
+				<span class="title"></span><span class="subtitle"></span>
+				<footer></footer>
+			</div>
+			<div class="tile">
+				<div class="background"></div>
+				<div class="darken"></div>
+				<div class="singlemsg"></div>
+				<span class="title"></span><span class="subtitle"></span>
+				<footer></footer>
+			</div>
+		</div>
+	</section>
 	<!--<div class="container">
 		<div class="row">
 			<div class="col-lg">
