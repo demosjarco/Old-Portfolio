@@ -47,21 +47,21 @@ $fileName = basename(__FILE__, '.php');
 				<div class="darken"></div>
 				<div class="singlemsg">Message</div>
 				<span class="title">Title</span><span class="subtitle">Subtitle</span>
-				<footer>Footer</footer>
+				<footer>August 2020 - May 2022</footer>
 			</div>
 			<div class="tile gcc">
 				<div class="background"></div>
 				<div class="darken"></div>
 				<div class="singlemsg">Message</div>
 				<span class="title">Title</span><span class="subtitle">Subtitle</span>
-				<footer>Footer</footer>
+				<footer>January 2019 - December 2019</footer>
 			</div>
 			<div class="tile mcc">
 				<div class="background"></div>
 				<div class="darken"></div>
 				<div class="singlemsg">Message</div>
 				<span class="title">Title</span><span class="subtitle">Subtitle</span>
-				<footer>Footer</footer>
+				<footer>August 2017 - May 2019</footer>
 			</div>
 		</div>
 	</section>
