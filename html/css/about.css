@@ -165,6 +165,9 @@ body section.work div.tiles div.tile.add div.background {
 body section.work div.tiles div.tile.srp div.background {
   background-image: url("../images/srp.jpg");
 }
+body section.projects div.tiles div.tile {
+  color: white;
+}
 body section.projects div.tiles div.tile.dankBeats div.background {
   background-image: url("../images/dankBeats.jpg");
 }
