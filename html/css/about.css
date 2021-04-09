@@ -82,12 +82,6 @@ body section > span.title {
 body section div.tiles {
   display: flex;
 }
-body section div.tiles a:link,
-body section div.tiles a:visited,
-body section div.tiles a:hover,
-body section div.tiles a:active {
-  text-decoration: none;
-}
 body section div.tiles div.tile {
   width: 250px;
   height: 250px;
