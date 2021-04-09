@@ -100,14 +100,14 @@ $fileName = basename(__FILE__, '.php');
 				<div class="darken"></div>
 				<div class="singlemsg"></div>
 				<span class="title">PSBN</span><span class="subtitle">iOS App</span>
-				<footer></footer>
+				<footer>Discontinued</footer>
 			</div>
 			<div class="tile iclol">
 				<div class="background"></div>
 				<div class="darken"></div>
 				<div class="singlemsg"></div>
 				<span class="title">Info Center for League of Legends</span><span class="subtitle">iOS App</span>
-				<footer></footer>
+				<footer>Discontinued</footer>
 			</div>
 		</div>
 	</section>
