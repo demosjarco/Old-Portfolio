@@ -96,24 +96,20 @@ $fileName = basename(__FILE__, '.php');
 				<span class="title">Dank Beats</span><span class="subtitle">Discord Bot</span>
 				<footer></footer>
 			</div>
-			<a href="https://demosjarco.dev/psbn.php">
-				<div class="tile psbn">
-					<div class="background"></div>
-					<div class="darken"></div>
-					<div class="singlemsg"></div>
-					<span class="title">PSBN</span><span class="subtitle">iOS App</span>
-					<footer>Discontinued</footer>
-				</div>
-			</a>
-			<a href="https://www.demosjarco.dev/leagueinfocenter/">
-				<div class="tile iclol">
-					<div class="background"></div>
-					<div class="darken"></div>
-					<div class="singlemsg"></div>
-					<span class="title">Info Center for League of Legends</span><span class="subtitle">iOS App</span>
-					<footer>Discontinued</footer>
-				</div>
-			</a>
+			<div class="tile psbn">
+				<div class="background"></div>
+				<div class="darken"></div>
+				<div class="singlemsg"></div>
+				<span class="title">PSBN</span><span class="subtitle">iOS App</span>
+				<footer>Discontinued</footer>
+			</div>
+			<div class="tile iclol">
+				<div class="background"></div>
+				<div class="darken"></div>
+				<div class="singlemsg"></div>
+				<span class="title">Info Center for League of Legends</span><span class="subtitle">iOS App</span>
+				<footer>Discontinued</footer>
+			</div>
 		</div>
 	</section>
 	<!--<div class="col-lg">
