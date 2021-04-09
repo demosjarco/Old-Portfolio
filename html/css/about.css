@@ -165,6 +165,15 @@ body section.work div.tiles div.tile.add div.background {
 body section.work div.tiles div.tile.srp div.background {
   background-image: url("https://placehold.it/250");
 }
+body section.projects div.tiles div.tile.dankBeats div.background {
+  background-image: url("../images/dankBeats.jpg");
+}
+body section.projects div.tiles div.tile.psbn div.background {
+  background-image: url("../images/psbn.png");
+}
+body section.projects div.tiles div.tile.iclol div.background {
+  background-image: url("../images/iclol.png");
+}
 body > div.container div.row {
   margin: 10px auto;
 }

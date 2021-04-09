@@ -88,25 +88,25 @@ $fileName = basename(__FILE__, '.php');
 	<section class="projects">
 		<span class="title">Projects</span>
 		<div class="tiles">
-			<div class="tile">
+			<div class="tile dankBeats">
 				<div class="background"></div>
 				<div class="darken"></div>
 				<div class="singlemsg"></div>
-				<span class="title"></span><span class="subtitle"></span>
+				<span class="title">Dank Beats</span><span class="subtitle">Discord Bot</span>
 				<footer></footer>
 			</div>
-			<div class="tile">
+			<div class="tile psbn">
 				<div class="background"></div>
 				<div class="darken"></div>
 				<div class="singlemsg"></div>
-				<span class="title"></span><span class="subtitle"></span>
+				<span class="title">PSBN</span><span class="subtitle">iOS App</span>
 				<footer></footer>
 			</div>
-			<div class="tile">
+			<div class="tile iclol">
 				<div class="background"></div>
 				<div class="darken"></div>
 				<div class="singlemsg"></div>
-				<span class="title"></span><span class="subtitle"></span>
+				<span class="title">Info Center for League of Legends</span><span class="subtitle">iOS App</span>
 				<footer></footer>
 			</div>
 		</div>
