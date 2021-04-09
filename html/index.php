@@ -53,15 +53,15 @@ $fileName = basename(__FILE__, '.php');
 			<div class="tile gcc">
 				<div class="background"></div>
 				<div class="darken"></div>
-				<div class="singlemsg">Glendale Community College</div>
-				<span class="title">AAS - Information Security</span>
+				<div class="singlemsg"></div>
+				<span class="title">Glendale Community College</span><span class="subtitle">AAS - Information Security</span>
 				<footer>Jan 2019 - Dec 2019</footer>
 			</div>
 			<div class="tile mcc">
 				<div class="background"></div>
 				<div class="darken"></div>
-				<div class="singlemsg">Mesa Community College</div>
-				<span class="title">AAS - Web Developer</span>
+				<div class="singlemsg"></div>
+				<span class="title">Mesa Community College</span><span class="subtitle">AAS - Web Developer</span>
 				<footer>Aug 2017 - May 2019</footer>
 			</div>
 		</div>
@@ -72,15 +72,15 @@ $fileName = basename(__FILE__, '.php');
 			<div class="tile srp">
 				<div class="background"></div>
 				<div class="darken"></div>
-				<div class="singlemsg">Salt River Project</div>
-				<span class="title">Solution Center Intern</span>
+				<div class="singlemsg"></div>
+				<span class="title">Salt River Project</span><span class="subtitle">Solution Center Intern</span>
 				<footer>Nov 2019 - Aug 2020</footer>
 			</div>
 			<div class="tile add">
 				<div class="background"></div>
 				<div class="darken"></div>
-				<div class="singlemsg">This list is too small, you can help expand it</div>
-				<span class="title"><a href="contact.php">Hire me!</a></span>
+				<div class="singlemsg"></div>
+				<span class="title"><a href="contact.php">Hire me!</a></span><span class="subtitle">This list is too small, you can help expand it</span>
 				<footer></footer>
 			</div>
 		</div>
