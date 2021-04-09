@@ -70,19 +70,19 @@ $fileName = basename(__FILE__, '.php');
 	<section class="work">
 		<span class="title">Work</span>
 		<div class="tiles">
-			<div class="tile srp">
-				<div class="background"></div>
-				<div class="darken"></div>
-				<div class="singlemsg"></div>
-				<span class="title">Salt River Project</span><span class="subtitle">Solution Center Intern</span>
-				<footer>Nov 2019 - Aug 2020</footer>
-			</div>
 			<div class="tile add">
 				<div class="background"></div>
 				<div class="darken"></div>
 				<div class="singlemsg"></div>
 				<span class="title"><a href="contact.php">Hire me!</a></span><span class="subtitle">This list is too small, you can help expand it</span>
 				<footer></footer>
+			</div>
+			<div class="tile srp">
+				<div class="background"></div>
+				<div class="darken"></div>
+				<div class="singlemsg"></div>
+				<span class="title">Salt River Project</span><span class="subtitle">Solution Center Intern</span>
+				<footer>Nov 2019 - Aug 2020</footer>
 			</div>
 		</div>
 	</section>
