@@ -116,31 +116,7 @@ $fileName = basename(__FILE__, '.php');
 			</a>
 		</div>
 	</section>
-	<!--<div class="container">
-		<div class="row">
-			<div class="col-lg">
-				<div class="card">
-					<img src="images/psbn.png" class="card-img-top" />
-					<div class="card-body">
-						<h5 class="card-title">PSBN</h5>
-						<p class="card-text">App created for the Peoria Student Broadcast Network. Watch live sports and shows from PSBN on your iPhone, iPad, or iPod Touch.</p>
-						<a href="https://demosjarco.dev/psbn.php" class="btn btn-primary">See more</a>
-					</div>
-					<div class="card-footer text-muted">Discontinued</div>
-				</div>
-			</div>
-			<div class="col-lg">
-				<div class="card">
-					<img src="images/iclol.png" class="card-img-top" />
-					<div class="card-body">
-						<h5 class="card-title">Info Center for League of Legends</h5>
-						<p class="card-text">The most comprehensive info app for everything in League of Legends is here! Improve your game and get better with all the tools and help you can possibly find. Stay up to date with the latest everything in League of Legends!</p>
-						<a href="https://www.demosjarco.dev/leagueinfocenter/" class="btn btn-primary">See more</a>
-					</div>
-					<div class="card-footer text-muted">Discontinued</div>
-				</div>
-			</div>
-			<div class="col-lg">
+	<!--<div class="col-lg">
 				<div class="card">
 					<img src="images/dankBeats.jpg" class="card-img-top" />
 					<div class="card-body">
