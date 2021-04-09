@@ -163,7 +163,7 @@ body section.work div.tiles div.tile.add div.background {
   background-color: #03a9f4;
 }
 body section.work div.tiles div.tile.srp div.background {
-  background-image: url("https://placehold.it/250");
+  background-image: url("../images/srp.jpg");
 }
 body section.projects div.tiles div.tile.dankBeats div.background {
   background-image: url("../images/dankBeats.jpg");
