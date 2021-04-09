@@ -91,7 +91,7 @@ $fileName = basename(__FILE__, '.php');
 			<div class="tile">
 				<div class="background"></div>
 				<div class="darken"></div>
-				<div class="singlemsg">Play random sound effects, recorded live sets from the top edm festivals in the world, and live radio from select stations in your discord voice channel at the highest quality possible.</div>
+				<div class="singlemsg"></div>
 				<span class="title"></span><span class="subtitle"></span>
 				<footer></footer>
 			</div>
