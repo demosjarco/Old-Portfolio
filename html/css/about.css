@@ -128,6 +128,7 @@ body section div.tiles div.tile a:hover,
 body section div.tiles div.tile a:active {
   text-decoration: none;
   font-weight: bold;
+  color: red;
 }
 body section div.tiles div.tile span.title {
   display: block;
@@ -171,20 +172,8 @@ body > div.container div.row div.col-lg div.card img {
   height: 200px;
   object-fit: cover;
 }
-body.light section div.tiles div.tile a:link,
-body.light section div.tiles div.tile a:visited,
-body.light section div.tiles div.tile a:hover,
-body.light section div.tiles div.tile a:active {
-  color: black;
-}
 body.light section.projects div.tiles div.tile {
   background-color: #F5F5F5;
-}
-body.dark section div.tiles div.tile a:link,
-body.dark section div.tiles div.tile a:visited,
-body.dark section div.tiles div.tile a:hover,
-body.dark section div.tiles div.tile a:active {
-  color: white;
 }
 body.dark section.projects div.tiles div.tile {
   background-color: #212121;
