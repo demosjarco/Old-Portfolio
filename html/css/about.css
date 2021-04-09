@@ -181,12 +181,6 @@ body > div.container div.row div.col-lg div.card img {
   height: 200px;
   object-fit: cover;
 }
-body.light section.projects div.tiles div.tile {
-  background-color: #F5F5F5;
-}
-body.dark section.projects div.tiles div.tile {
-  background-color: #212121;
-}
 @media screen and (min-width: 650px) {
   body > div.card {
     width: 75%;
