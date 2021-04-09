@@ -46,8 +46,8 @@ $fileName = basename(__FILE__, '.php');
 			<div class="tile ua">
 				<div class="background"></div>
 				<div class="darken"></div>
-				<div class="singlemsg">University of Arizona</div>
-				<span class="title">BAS - Cyber Operations</span><span class="subtitle">Defense & Forensics</span>
+				<div class="singlemsg"></div>
+				<span class="title">University of Arizona</span><span class="subtitle">BAS - Cyber Operations</span>
 				<footer>Aug 2020 - May 2022</footer>
 			</div>
 			<div class="tile gcc">
