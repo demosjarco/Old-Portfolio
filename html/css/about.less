@@ -8,7 +8,7 @@ body {
 				max-height: 100px;
 				padding: 15px;
 				
-				background-image: url("../images/square_logo.svg");
+				background-image: url("https://b2.demosjarco.dev/file/demosjarco-portfolio/images/square_logo.svg");
 				background-origin: content-box;
 				background-size: cover;
 				background-repeat: no-repeat;
@@ -146,33 +146,22 @@ body {
 					height: 100%;
 					z-index: -1;
 					
-					background-color: rgba(0, 0, 0, 2/3);
-				}
-				
-				&.gcc {
-					div.background {
-						background-image: url("../images/gcc.png");
-					}
-				}
-				
-				&.mcc {
-					div.background {
-						background-image: url("../images/mcc.png");
-					}
+					background-color: rgba(0, 0, 0, calc(2/3));
 				}
 				
 				p {
 					font-size: medium;
 				}
 				
-				.singlemsg {
-					margin-top: (250px-38px)/2;
+				div.singlemsg {
+					margin-top: calc((250px - 38px)/2);
 				}
 				
 				a {
 					&:link, &:visited, &:hover, &:active {
 						text-decoration: none;
 						font-weight: bold;
+						color: red;
 					}
 				}
 				
@@ -200,6 +189,24 @@ body {
 			div.tiles {
 				div.tile {
 					color: white;
+
+					&.ua {
+						div.background {
+							background-image: url("https://b2.demosjarco.dev/file/demosjarco-portfolio/images/ua.jpg");
+						}
+					}
+					
+					&.gcc {
+						div.background {
+							background-image: url("https://b2.demosjarco.dev/file/demosjarco-portfolio/images/gcc.png");
+						}
+					}
+					
+					&.mcc {
+						div.background {
+							background-image: url("https://b2.demosjarco.dev/file/demosjarco-portfolio/images/mcc.png");
+						}
+					}
 				}
 			}
 		}
@@ -207,8 +214,45 @@ body {
 		&.work {
 			div.tiles {
 				div.tile {
-					background-color: #03a9f4;
 					color: white;
+
+					&.add {
+						div.background {
+							background-color: #03a9f4;
+						}
+					}
+
+					&.srp {
+						div.background {
+							background-image: url("https://b2.demosjarco.dev/file/demosjarco-portfolio/images/srp.jpg");
+						}
+					}
+				}
+			}
+		}
+
+		&.projects {
+			div.tiles {
+				div.tile {
+					color: white;
+					
+					&.dankBeats {
+						div.background {
+							background-image: url("https://b2.demosjarco.dev/file/demosjarco-portfolio/images/dankBeats.jpg");
+						}
+					}
+
+					&.psbn {
+						div.background {
+							background-image: url("https://b2.demosjarco.dev/file/demosjarco-portfolio/images/psbn.png");
+						}
+					}
+
+					&.iclol {
+						div.background {
+							background-image: url("https://b2.demosjarco.dev/file/demosjarco-portfolio/images/iclol.png");
+						}
+					}
 				}
 			}
 		}
@@ -222,50 +266,6 @@ body {
 					img {
 						height: 200px;
 						object-fit: cover;
-					}
-				}
-			}
-		}
-	}
-	
-	&.light {
-		section {
-			div.tiles {
-				div.tile {
-					a {
-						&:link, &:visited, &:hover, &:active {
-							color: black;
-						}
-					}
-				}
-			}
-			
-			&.projects {
-				div.tiles {
-					div.tile {
-						background-color: #F5F5F5;
-					}
-				}
-			}
-		}
-	}
-	
-	&.dark {
-		section {
-			div.tiles {
-				div.tile {
-					a {
-						&:link, &:visited, &:hover, &:active {
-							color: white;
-						}
-					}
-				}
-			}
-			
-			&.projects {
-				div.tiles {
-					div.tile {
-						background-color: #212121;
 					}
 				}
 			}

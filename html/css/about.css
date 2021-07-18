@@ -4,7 +4,7 @@ body > div.card div.content div.picture {
   min-height: 100px;
   max-height: 100px;
   padding: 15px;
-  background-image: url("../images/square_logo.svg");
+  background-image: url("https://b2.demosjarco.dev/file/demosjarco-portfolio/images/square_logo.svg");
   background-origin: content-box;
   background-size: cover;
   background-repeat: no-repeat;
@@ -114,19 +114,13 @@ body section div.tiles div.tile div.darken {
   width: 100%;
   height: 100%;
   z-index: -1;
-  background-color: rgba(0, 0, 0, 0.66666667);
-}
-body section div.tiles div.tile.gcc div.background {
-  background-image: url("../images/gcc.png");
-}
-body section div.tiles div.tile.mcc div.background {
-  background-image: url("../images/mcc.png");
+  background-color: rgba(0, 0, 0, calc(2/3));
 }
 body section div.tiles div.tile p {
   font-size: medium;
 }
-body section div.tiles div.tile .singlemsg {
-  margin-top: 106px;
+body section div.tiles div.tile div.singlemsg {
+  margin-top: calc((250px - 38px)/2);
 }
 body section div.tiles div.tile a:link,
 body section div.tiles div.tile a:visited,
@@ -134,6 +128,7 @@ body section div.tiles div.tile a:hover,
 body section div.tiles div.tile a:active {
   text-decoration: none;
   font-weight: bold;
+  color: red;
 }
 body section div.tiles div.tile span.title {
   display: block;
@@ -152,9 +147,35 @@ body section div.tiles div.tile footer {
 body section.school div.tiles div.tile {
   color: white;
 }
+body section.school div.tiles div.tile.ua div.background {
+  background-image: url("https://b2.demosjarco.dev/file/demosjarco-portfolio/images/ua.jpg");
+}
+body section.school div.tiles div.tile.gcc div.background {
+  background-image: url("https://b2.demosjarco.dev/file/demosjarco-portfolio/images/gcc.png");
+}
+body section.school div.tiles div.tile.mcc div.background {
+  background-image: url("https://b2.demosjarco.dev/file/demosjarco-portfolio/images/mcc.png");
+}
 body section.work div.tiles div.tile {
-  background-color: #03a9f4;
   color: white;
+}
+body section.work div.tiles div.tile.add div.background {
+  background-color: #03a9f4;
+}
+body section.work div.tiles div.tile.srp div.background {
+  background-image: url("https://b2.demosjarco.dev/file/demosjarco-portfolio/images/srp.jpg");
+}
+body section.projects div.tiles div.tile {
+  color: white;
+}
+body section.projects div.tiles div.tile.dankBeats div.background {
+  background-image: url("https://b2.demosjarco.dev/file/demosjarco-portfolio/images/dankBeats.jpg");
+}
+body section.projects div.tiles div.tile.psbn div.background {
+  background-image: url("https://b2.demosjarco.dev/file/demosjarco-portfolio/images/psbn.png");
+}
+body section.projects div.tiles div.tile.iclol div.background {
+  background-image: url("https://b2.demosjarco.dev/file/demosjarco-portfolio/images/iclol.png");
 }
 body > div.container div.row {
   margin: 10px auto;
@@ -162,24 +183,6 @@ body > div.container div.row {
 body > div.container div.row div.col-lg div.card img {
   height: 200px;
   object-fit: cover;
-}
-body.light section div.tiles div.tile a:link,
-body.light section div.tiles div.tile a:visited,
-body.light section div.tiles div.tile a:hover,
-body.light section div.tiles div.tile a:active {
-  color: black;
-}
-body.light section.projects div.tiles div.tile {
-  background-color: #F5F5F5;
-}
-body.dark section div.tiles div.tile a:link,
-body.dark section div.tiles div.tile a:visited,
-body.dark section div.tiles div.tile a:hover,
-body.dark section div.tiles div.tile a:active {
-  color: white;
-}
-body.dark section.projects div.tiles div.tile {
-  background-color: #212121;
 }
 @media screen and (min-width: 650px) {
   body > div.card {
