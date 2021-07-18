@@ -31,7 +31,7 @@ $fileName = basename(__FILE__, '.php');
 				<span class="title">I'm <span class="name">Victor</span></span>
 				<span class="subtitle">Web Developer and IT Operations Specialist</span>
 				<hr>
-				<p>I'm an Arizona based developer with skills ranging everywhere from full stack web programmer (HTML, PHP, NodeJS, ...) all the way to IT and Security Operations Specialist. I currently hold CompTIA A+ and Network+ certifications (Security+ coming soon). I'm currently a student at the University of Arizona in Cyber Operations - Defense & Forensics.</p>
+				<p>I'm an Arizona based engineer with skills ranging everywhere from full stack web programmer to IT and Security Operations Specialist. I currently hold CompTIA A+ and Network+ certifications (Security+ coming soon). I'm currently a student at the University of Arizona in Cyber Operations - Defense & Forensics.</p>
 				</table>
 			</div>
 		</div>
