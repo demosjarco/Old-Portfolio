@@ -17,6 +17,7 @@ body header div.background {
   height: 120%;
   z-index: 1;
   background-color: black;
+  background-image: url("https://b2.demosjarco.dev/file/demosjarco-portfolio/images/close-up-code-coding-239898.png");
   background-size: cover;
   background-position: center center;
   filter: blur(5px);
