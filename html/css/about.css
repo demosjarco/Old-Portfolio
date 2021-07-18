@@ -120,7 +120,7 @@ body section div.tiles div.tile p {
   font-size: medium;
 }
 body section div.tiles div.tile div.singlemsg {
-  margin-top: calc((250px-38px)/2);
+  margin-top: calc((250px - 38px)/2);
 }
 body section div.tiles div.tile a:link,
 body section div.tiles div.tile a:visited,
