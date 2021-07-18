@@ -114,7 +114,7 @@ body section div.tiles div.tile div.darken {
   width: 100%;
   height: 100%;
   z-index: -1;
-  background-color: rgba(0, 0, 0, 2/3);
+  background-color: rgba(0, 0, 0, calc(2/3));
 }
 body section div.tiles div.tile p {
   font-size: medium;
