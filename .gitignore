@@ -85,5 +85,5 @@ typings/
 
 # Minecraft maps
 html/mcmaps/**/*.webp
-html/mcmaps/**/*.png
+# *.webp
 *.webp
