@@ -31,7 +31,7 @@ $fileName = basename(__FILE__, '.php');
 				<span class="title">I'm <span class="name">Victor</span></span>
 				<span class="subtitle">Web Developer and IT Operations Specialist</span>
 				<hr>
-				<p>I'm an Arizona based engineer with skills ranging everywhere from full stack web programmer to IT and Security Operations Specialist. I currently hold CompTIA A+ and Network+ certifications (Security+ coming soon). I'm currently a student at the University of Arizona in Cyber Operations - Defense & Forensics.</p>
+				<!--sse--><p>I'm an Arizona based engineer with skills ranging everywhere from full stack web programmer to IT and Security Operations Specialist. I currently hold CompTIA A+ and Network+ certifications (Security+ coming soon). I'm currently a student at the University of Arizona in Cyber Operations - Defense & Forensics.</p><!--/sse-->
 				</table>
 			</div>
 		</div>
@@ -43,7 +43,7 @@ $fileName = basename(__FILE__, '.php');
 	</div>
 	<section class="school">
 		<span class="title">School</span>
-		<div class="tiles">
+		<!--sse--><div class="tiles">
 			<div class="tile ua">
 				<div class="background"></div>
 				<div class="darken"></div>
@@ -65,11 +65,11 @@ $fileName = basename(__FILE__, '.php');
 				<span class="title">Mesa Community College</span><span class="subtitle">AAS - Web Developer</span>
 				<footer>Aug 2017 - May 2019</footer>
 			</div>
-		</div>
+		</div><!--/sse-->
 	</section>
 	<section class="work">
 		<span class="title">Work</span>
-		<div class="tiles">
+		<!--sse--><div class="tiles">
 			<div class="tile add">
 				<div class="background"></div>
 				<div class="darken"></div>
@@ -84,11 +84,11 @@ $fileName = basename(__FILE__, '.php');
 				<span class="title">Salt River Project</span><span class="subtitle">Solution Center Intern</span>
 				<footer>Nov 2019 - Aug 2020</footer>
 			</div>
-		</div>
+		</div><!--/sse-->
 	</section>
 	<section class="projects">
 		<span class="title">Projects</span>
-		<div class="tiles">
+		<!--sse--><div class="tiles">
 			<div class="tile dankBeats">
 				<div class="background"></div>
 				<div class="darken"></div>
@@ -110,7 +110,7 @@ $fileName = basename(__FILE__, '.php');
 				<span class="title">Info Center for League of Legends</span><span class="subtitle">iOS App</span>
 				<footer>Discontinued</footer>
 			</div>
-		</div>
+		</div><!--/sse-->
 	</section>
 	<!--<div class="container">
 		<div class="row">
