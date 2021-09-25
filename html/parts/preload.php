@@ -1,5 +1,5 @@
 <?php declare(strict_types=1);
-header("Link: <https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css>; rel=preload; as=style; crossorigin", false);
+header("Link: <https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css>; rel=preload; as=style; crossorigin", false);
 header("Link: <https://fonts.googleapis.com/css?family=Lato:400,700|Roboto>; rel=preload; as=style; crossorigin", false);
 header("Link: </css/main.css>; as=style; rel=preload", false);
 header("Link: </css/light.css>; as=style; rel=preload", false);
