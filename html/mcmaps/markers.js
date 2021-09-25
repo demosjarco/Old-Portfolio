@@ -4,7 +4,7 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Signs",
-      "groupName": "Signsb8a6_61a1",
+      "groupName": "Signsaeb7_58a3",
       "icon": "signpost_icon.png",
       "showIconInLegend": false
     },
@@ -12,7 +12,7 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Chests",
-      "groupName": "Chests4763_61a1",
+      "groupName": "Chests5141_58a3",
       "icon": "chest.png",
       "showIconInLegend": false
     },
@@ -20,7 +20,7 @@ var markers={
       "checked": true,
       "createInfoWindow": true,
       "displayName": "Players",
-      "groupName": "Players4752_61a1",
+      "groupName": "Playersaec8_58a3",
       "icon": "signpost_icon.png",
       "showIconInLegend": false
     }
@@ -30,7 +30,7 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Signs",
-      "groupName": "Signsb8a6_54cc",
+      "groupName": "Signsaeb7_0b90",
       "icon": "signpost_icon.png",
       "showIconInLegend": false
     },
@@ -38,7 +38,7 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Chests",
-      "groupName": "Chests4763_54cc",
+      "groupName": "Chests5141_0b90",
       "icon": "chest.png",
       "showIconInLegend": false
     },
@@ -46,7 +46,7 @@ var markers={
       "checked": true,
       "createInfoWindow": true,
       "displayName": "Players",
-      "groupName": "Players4752_54cc",
+      "groupName": "Playersaec8_0b90",
       "icon": "signpost_icon.png",
       "showIconInLegend": false
     }
@@ -56,7 +56,7 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Signs",
-      "groupName": "Signsb8a6_5fcb",
+      "groupName": "Signsaeb7_2f47",
       "icon": "signpost_icon.png",
       "showIconInLegend": false
     },
@@ -64,7 +64,7 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Chests",
-      "groupName": "Chests4763_5fcb",
+      "groupName": "Chests5141_2f47",
       "icon": "chest.png",
       "showIconInLegend": false
     },
@@ -72,7 +72,7 @@ var markers={
       "checked": true,
       "createInfoWindow": true,
       "displayName": "Players",
-      "groupName": "Players4752_5fcb",
+      "groupName": "Playersaec8_2f47",
       "icon": "signpost_icon.png",
       "showIconInLegend": false
     }
@@ -82,7 +82,7 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Signs",
-      "groupName": "Signsb8a6_00b2",
+      "groupName": "Signsaeb7_1014",
       "icon": "signpost_icon.png",
       "showIconInLegend": false
     },
@@ -90,7 +90,7 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Chests",
-      "groupName": "Chests4763_00b2",
+      "groupName": "Chests5141_1014",
       "icon": "chest.png",
       "showIconInLegend": false
     },
@@ -98,7 +98,7 @@ var markers={
       "checked": true,
       "createInfoWindow": true,
       "displayName": "Players",
-      "groupName": "Players4752_00b2",
+      "groupName": "Playersaec8_1014",
       "icon": "signpost_icon.png",
       "showIconInLegend": false
     }
@@ -108,7 +108,7 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Signs",
-      "groupName": "Signsb8a6_960e",
+      "groupName": "Signsaeb7_cb34",
       "icon": "signpost_icon.png",
       "showIconInLegend": false
     },
@@ -116,7 +116,7 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Chests",
-      "groupName": "Chests4763_960e",
+      "groupName": "Chests5141_cb34",
       "icon": "chest.png",
       "showIconInLegend": false
     },
@@ -124,7 +124,7 @@ var markers={
       "checked": true,
       "createInfoWindow": true,
       "displayName": "Players",
-      "groupName": "Players4752_960e",
+      "groupName": "Playersaec8_cb34",
       "icon": "signpost_icon.png",
       "showIconInLegend": false
     }
@@ -134,7 +134,7 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Signs",
-      "groupName": "Signsb8a6_6bac",
+      "groupName": "Signsaeb7_a1f3",
       "icon": "signpost_icon.png",
       "showIconInLegend": false
     },
@@ -142,7 +142,7 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Chests",
-      "groupName": "Chests4763_6bac",
+      "groupName": "Chests5141_a1f3",
       "icon": "chest.png",
       "showIconInLegend": false
     },
@@ -150,7 +150,7 @@ var markers={
       "checked": true,
       "createInfoWindow": true,
       "displayName": "Players",
-      "groupName": "Players4752_6bac",
+      "groupName": "Playersaec8_a1f3",
       "icon": "signpost_icon.png",
       "showIconInLegend": false
     }

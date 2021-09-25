@@ -1,10 +1,5 @@
 var markersDB={
-  "Chests4763_00b2": {
-    "created": false,
-    "name": "Chests",
-    "raw": []
-  },
-  "Chests4763_54cc": {
+  "Chests5141_0b90": {
     "created": false,
     "name": "Chests",
     "raw": [
@@ -549,12 +544,17 @@ var markersDB={
       }
     ]
   },
-  "Chests4763_5fcb": {
+  "Chests5141_1014": {
     "created": false,
     "name": "Chests",
     "raw": []
   },
-  "Chests4763_61a1": {
+  "Chests5141_2f47": {
+    "created": false,
+    "name": "Chests",
+    "raw": []
+  },
+  "Chests5141_58a3": {
     "created": false,
     "name": "Chests",
     "raw": [
@@ -1099,7 +1099,7 @@ var markersDB={
       }
     ]
   },
-  "Chests4763_6bac": {
+  "Chests5141_a1f3": {
     "created": false,
     "name": "Chests",
     "raw": [
@@ -12515,7 +12515,7 @@ var markersDB={
       }
     ]
   },
-  "Chests4763_960e": {
+  "Chests5141_cb34": {
     "created": false,
     "name": "Chests",
     "raw": [
@@ -23931,7 +23931,61 @@ var markersDB={
       }
     ]
   },
-  "Players4752_00b2": {
+  "Playersaec8_0b90": {
+    "created": false,
+    "name": "Players",
+    "raw": [
+      {
+        "hovertext": "Last known location for KungFluMastr834",
+        "icon": "https://overviewer.org/avatar/KungFluMastr834",
+        "text": "Last known location for KungFluMastr834",
+        "x": -74.77608503069308,
+        "y": 81.99881476743695,
+        "z": 62.63750081859496
+      },
+      {
+        "hovertext": "Last known location for Masiso",
+        "icon": "https://overviewer.org/avatar/Masiso",
+        "text": "Last known location for Masiso",
+        "x": -85.5402428228384,
+        "y": 92.0,
+        "z": -74.058631654046
+      },
+      {
+        "hovertext": "Last known location for Waeluigi",
+        "icon": "https://overviewer.org/avatar/Waeluigi",
+        "text": "Last known location for Waeluigi",
+        "x": -88.07441866803397,
+        "y": 96.36819527715333,
+        "z": -74.41349707796982
+      },
+      {
+        "hovertext": "Last known location for NaleyGaming",
+        "icon": "https://overviewer.org/avatar/NaleyGaming",
+        "text": "Last known location for NaleyGaming",
+        "x": -242.82029940154297,
+        "y": 67.0,
+        "z": -211.5278486306408
+      },
+      {
+        "hovertext": "Last known location for Daddy_Johnny",
+        "icon": "https://overviewer.org/avatar/Daddy_Johnny",
+        "text": "Last known location for Daddy_Johnny",
+        "x": -81.44443907566912,
+        "y": 92.0,
+        "z": -70.21624829498985
+      },
+      {
+        "hovertext": "Last known location for HeLp_mEeE",
+        "icon": "https://overviewer.org/avatar/HeLp_mEeE",
+        "text": "Last known location for HeLp_mEeE",
+        "x": -224.82073693863381,
+        "y": 57.0,
+        "z": -223.01180223398802
+      }
+    ]
+  },
+  "Playersaec8_1014": {
     "created": false,
     "name": "Players",
     "raw": [
@@ -24049,61 +24103,7 @@ var markersDB={
       }
     ]
   },
-  "Players4752_54cc": {
-    "created": false,
-    "name": "Players",
-    "raw": [
-      {
-        "hovertext": "Last known location for KungFluMastr834",
-        "icon": "https://overviewer.org/avatar/KungFluMastr834",
-        "text": "Last known location for KungFluMastr834",
-        "x": -74.77608503069308,
-        "y": 81.99881476743695,
-        "z": 62.63750081859496
-      },
-      {
-        "hovertext": "Last known location for Masiso",
-        "icon": "https://overviewer.org/avatar/Masiso",
-        "text": "Last known location for Masiso",
-        "x": -85.5402428228384,
-        "y": 92.0,
-        "z": -74.058631654046
-      },
-      {
-        "hovertext": "Last known location for Waeluigi",
-        "icon": "https://overviewer.org/avatar/Waeluigi",
-        "text": "Last known location for Waeluigi",
-        "x": -88.07441866803397,
-        "y": 96.36819527715333,
-        "z": -74.41349707796982
-      },
-      {
-        "hovertext": "Last known location for NaleyGaming",
-        "icon": "https://overviewer.org/avatar/NaleyGaming",
-        "text": "Last known location for NaleyGaming",
-        "x": -242.82029940154297,
-        "y": 67.0,
-        "z": -211.5278486306408
-      },
-      {
-        "hovertext": "Last known location for Daddy_Johnny",
-        "icon": "https://overviewer.org/avatar/Daddy_Johnny",
-        "text": "Last known location for Daddy_Johnny",
-        "x": -81.44443907566912,
-        "y": 92.0,
-        "z": -70.21624829498985
-      },
-      {
-        "hovertext": "Last known location for HeLp_mEeE",
-        "icon": "https://overviewer.org/avatar/HeLp_mEeE",
-        "text": "Last known location for HeLp_mEeE",
-        "x": -224.82073693863381,
-        "y": 57.0,
-        "z": -223.01180223398802
-      }
-    ]
-  },
-  "Players4752_5fcb": {
+  "Playersaec8_2f47": {
     "created": false,
     "name": "Players",
     "raw": [
@@ -24221,7 +24221,7 @@ var markersDB={
       }
     ]
   },
-  "Players4752_61a1": {
+  "Playersaec8_58a3": {
     "created": false,
     "name": "Players",
     "raw": [
@@ -24275,7 +24275,7 @@ var markersDB={
       }
     ]
   },
-  "Players4752_6bac": {
+  "Playersaec8_a1f3": {
     "created": false,
     "name": "Players",
     "raw": [
@@ -24401,7 +24401,7 @@ var markersDB={
       }
     ]
   },
-  "Players4752_960e": {
+  "Playersaec8_cb34": {
     "created": false,
     "name": "Players",
     "raw": [
@@ -24527,27 +24527,27 @@ var markersDB={
       }
     ]
   },
-  "Signsb8a6_00b2": {
+  "Signsaeb7_0b90": {
     "created": false,
     "name": "Signs",
     "raw": []
   },
-  "Signsb8a6_54cc": {
+  "Signsaeb7_1014": {
     "created": false,
     "name": "Signs",
     "raw": []
   },
-  "Signsb8a6_5fcb": {
+  "Signsaeb7_2f47": {
     "created": false,
     "name": "Signs",
     "raw": []
   },
-  "Signsb8a6_61a1": {
+  "Signsaeb7_58a3": {
     "created": false,
     "name": "Signs",
     "raw": []
   },
-  "Signsb8a6_6bac": {
+  "Signsaeb7_a1f3": {
     "created": false,
     "name": "Signs",
     "raw": [
@@ -29033,7 +29033,7 @@ var markersDB={
       }
     ]
   },
-  "Signsb8a6_960e": {
+  "Signsaeb7_cb34": {
     "created": false,
     "name": "Signs",
     "raw": [
