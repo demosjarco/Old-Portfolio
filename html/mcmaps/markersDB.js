@@ -1,5 +1,5 @@
 var markersDB={
-  "Chests5141_0b90": {
+  "Chestsb141_596c": {
     "created": false,
     "name": "Chests",
     "raw": [
@@ -544,17 +544,7 @@ var markersDB={
       }
     ]
   },
-  "Chests5141_1014": {
-    "created": false,
-    "name": "Chests",
-    "raw": []
-  },
-  "Chests5141_2f47": {
-    "created": false,
-    "name": "Chests",
-    "raw": []
-  },
-  "Chests5141_58a3": {
+  "Chestsb141_786c": {
     "created": false,
     "name": "Chests",
     "raw": [
@@ -1099,7 +1089,7 @@ var markersDB={
       }
     ]
   },
-  "Chests5141_a1f3": {
+  "Chestsb141_a065": {
     "created": false,
     "name": "Chests",
     "raw": [
@@ -12515,7 +12505,17 @@ var markersDB={
       }
     ]
   },
-  "Chests5141_cb34": {
+  "Chestsb141_a7de": {
+    "created": false,
+    "name": "Chests",
+    "raw": []
+  },
+  "Chestsb141_daf3": {
+    "created": false,
+    "name": "Chests",
+    "raw": []
+  },
+  "Chestsb141_ff7d": {
     "created": false,
     "name": "Chests",
     "raw": [
@@ -23931,7 +23931,7 @@ var markersDB={
       }
     ]
   },
-  "Playersaec8_0b90": {
+  "Players4ec8_596c": {
     "created": false,
     "name": "Players",
     "raw": [
@@ -23985,7 +23985,187 @@ var markersDB={
       }
     ]
   },
-  "Playersaec8_1014": {
+  "Players4ec8_786c": {
+    "created": false,
+    "name": "Players",
+    "raw": [
+      {
+        "hovertext": "Last known location for KungFluMastr834",
+        "icon": "https://overviewer.org/avatar/KungFluMastr834",
+        "text": "Last known location for KungFluMastr834",
+        "x": -74.77608503069308,
+        "y": 81.99881476743695,
+        "z": 62.63750081859496
+      },
+      {
+        "hovertext": "Last known location for Masiso",
+        "icon": "https://overviewer.org/avatar/Masiso",
+        "text": "Last known location for Masiso",
+        "x": -85.5402428228384,
+        "y": 92.0,
+        "z": -74.058631654046
+      },
+      {
+        "hovertext": "Last known location for Waeluigi",
+        "icon": "https://overviewer.org/avatar/Waeluigi",
+        "text": "Last known location for Waeluigi",
+        "x": -88.07441866803397,
+        "y": 96.36819527715333,
+        "z": -74.41349707796982
+      },
+      {
+        "hovertext": "Last known location for NaleyGaming",
+        "icon": "https://overviewer.org/avatar/NaleyGaming",
+        "text": "Last known location for NaleyGaming",
+        "x": -242.82029940154297,
+        "y": 67.0,
+        "z": -211.5278486306408
+      },
+      {
+        "hovertext": "Last known location for Daddy_Johnny",
+        "icon": "https://overviewer.org/avatar/Daddy_Johnny",
+        "text": "Last known location for Daddy_Johnny",
+        "x": -81.44443907566912,
+        "y": 92.0,
+        "z": -70.21624829498985
+      },
+      {
+        "hovertext": "Last known location for HeLp_mEeE",
+        "icon": "https://overviewer.org/avatar/HeLp_mEeE",
+        "text": "Last known location for HeLp_mEeE",
+        "x": -224.82073693863381,
+        "y": 57.0,
+        "z": -223.01180223398802
+      }
+    ]
+  },
+  "Players4ec8_a065": {
+    "created": false,
+    "name": "Players",
+    "raw": [
+      {
+        "hovertext": "Last known location for Mqstic",
+        "icon": "https://overviewer.org/avatar/Mqstic",
+        "text": "Last known location for Mqstic",
+        "x": 10.231086798617445,
+        "y": 114.27673195792971,
+        "z": 206.36401308332177
+      },
+      {
+        "hovertext": "Last known location for Cowboy_fromHell",
+        "icon": "https://overviewer.org/avatar/Cowboy_fromHell",
+        "text": "Last known location for Cowboy_fromHell",
+        "x": -221.9001699744146,
+        "y": 145.9375,
+        "z": 28.699999988079103
+      },
+      {
+        "hovertext": "Last known location for GoldenEpic",
+        "icon": "https://overviewer.org/avatar/GoldenEpic",
+        "text": "Last known location for GoldenEpic",
+        "x": -150.50946211427578,
+        "y": 119.45579487245114,
+        "z": 142.4730591476822
+      },
+      {
+        "hovertext": "Last known location for Waeluigi",
+        "icon": "https://overviewer.org/avatar/Waeluigi",
+        "text": "Last known location for Waeluigi",
+        "x": 68.55962025143658,
+        "y": 90.3240856676043,
+        "z": 194.7420924072711
+      },
+      {
+        "hovertext": "Last known location for RazzerWolf",
+        "icon": "https://overviewer.org/avatar/RazzerWolf",
+        "text": "Last known location for RazzerWolf",
+        "x": 83.4219014591417,
+        "y": 67.0,
+        "z": 172.85363500951658
+      },
+      {
+        "hovertext": "Last known location for Aliciajo3",
+        "icon": "https://overviewer.org/avatar/Aliciajo3",
+        "text": "Last known location for Aliciajo3",
+        "x": -21.463743812354423,
+        "y": 63.0,
+        "z": 192.31362321628646
+      },
+      {
+        "hovertext": "Last known location for NaleyGaming",
+        "icon": "https://overviewer.org/avatar/NaleyGaming",
+        "text": "Last known location for NaleyGaming",
+        "x": 54.028895137451435,
+        "y": 67.0,
+        "z": 187.1995324869161
+      },
+      {
+        "hovertext": "Last known location for NB_FeaR",
+        "icon": "https://overviewer.org/avatar/NB_FeaR",
+        "text": "Last known location for NB_FeaR",
+        "x": 94.02892026860854,
+        "y": 243.5,
+        "z": 280.13212536337664
+      },
+      {
+        "hovertext": "Last known location for Daddy_Johnny",
+        "icon": "https://overviewer.org/avatar/Daddy_Johnny",
+        "text": "Last known location for Daddy_Johnny",
+        "x": 74.42101458095706,
+        "y": 76.0,
+        "z": 108.44082117528957
+      },
+      {
+        "hovertext": "Last known location for AdvilQueen",
+        "icon": "https://overviewer.org/avatar/AdvilQueen",
+        "text": "Last known location for AdvilQueen",
+        "x": 134.44820160350017,
+        "y": 82.0,
+        "z": 170.96857470410902
+      },
+      {
+        "hovertext": "Last known location for crazyhaleylime",
+        "icon": "https://overviewer.org/avatar/crazyhaleylime",
+        "text": "Last known location for crazyhaleylime",
+        "x": 109.51865476028108,
+        "y": 244.0625,
+        "z": 271.79492026027003
+      },
+      {
+        "hovertext": "Last known location for dazzle1",
+        "icon": "https://overviewer.org/avatar/dazzle1",
+        "text": "Last known location for dazzle1",
+        "x": -268.36897046152717,
+        "y": 88.0,
+        "z": 535.4446174429795
+      },
+      {
+        "hovertext": "Last known location for HeLp_mEeE",
+        "icon": "https://overviewer.org/avatar/HeLp_mEeE",
+        "text": "Last known location for HeLp_mEeE",
+        "x": 36.377165239151616,
+        "y": 63.0,
+        "z": 176.14332945128618
+      },
+      {
+        "hovertext": "Last known location for Havey_Wavey",
+        "icon": "https://overviewer.org/avatar/Havey_Wavey",
+        "text": "Last known location for Havey_Wavey",
+        "x": -97.84946874614319,
+        "y": 88.0,
+        "z": 8.34440442262972
+      },
+      {
+        "hovertext": "Last known location for MasterMike7",
+        "icon": "https://overviewer.org/avatar/MasterMike7",
+        "text": "Last known location for MasterMike7",
+        "x": -20.380753590195358,
+        "y": 63.0,
+        "z": 186.37176310405192
+      }
+    ]
+  },
+  "Players4ec8_a7de": {
     "created": false,
     "name": "Players",
     "raw": [
@@ -24103,7 +24283,7 @@ var markersDB={
       }
     ]
   },
-  "Playersaec8_2f47": {
+  "Players4ec8_daf3": {
     "created": false,
     "name": "Players",
     "raw": [
@@ -24221,61 +24401,7 @@ var markersDB={
       }
     ]
   },
-  "Playersaec8_58a3": {
-    "created": false,
-    "name": "Players",
-    "raw": [
-      {
-        "hovertext": "Last known location for KungFluMastr834",
-        "icon": "https://overviewer.org/avatar/KungFluMastr834",
-        "text": "Last known location for KungFluMastr834",
-        "x": -74.77608503069308,
-        "y": 81.99881476743695,
-        "z": 62.63750081859496
-      },
-      {
-        "hovertext": "Last known location for Masiso",
-        "icon": "https://overviewer.org/avatar/Masiso",
-        "text": "Last known location for Masiso",
-        "x": -85.5402428228384,
-        "y": 92.0,
-        "z": -74.058631654046
-      },
-      {
-        "hovertext": "Last known location for Waeluigi",
-        "icon": "https://overviewer.org/avatar/Waeluigi",
-        "text": "Last known location for Waeluigi",
-        "x": -88.07441866803397,
-        "y": 96.36819527715333,
-        "z": -74.41349707796982
-      },
-      {
-        "hovertext": "Last known location for NaleyGaming",
-        "icon": "https://overviewer.org/avatar/NaleyGaming",
-        "text": "Last known location for NaleyGaming",
-        "x": -242.82029940154297,
-        "y": 67.0,
-        "z": -211.5278486306408
-      },
-      {
-        "hovertext": "Last known location for Daddy_Johnny",
-        "icon": "https://overviewer.org/avatar/Daddy_Johnny",
-        "text": "Last known location for Daddy_Johnny",
-        "x": -81.44443907566912,
-        "y": 92.0,
-        "z": -70.21624829498985
-      },
-      {
-        "hovertext": "Last known location for HeLp_mEeE",
-        "icon": "https://overviewer.org/avatar/HeLp_mEeE",
-        "text": "Last known location for HeLp_mEeE",
-        "x": -224.82073693863381,
-        "y": 57.0,
-        "z": -223.01180223398802
-      }
-    ]
-  },
-  "Playersaec8_a1f3": {
+  "Players4ec8_ff7d": {
     "created": false,
     "name": "Players",
     "raw": [
@@ -24384,9 +24510,9 @@ var markersDB={
         "z": 176.14332945128618
       },
       {
-        "hovertext": "Last known location for HavenTheCrab",
-        "icon": "https://overviewer.org/avatar/HavenTheCrab",
-        "text": "Last known location for HavenTheCrab",
+        "hovertext": "Last known location for Havey_Wavey",
+        "icon": "https://overviewer.org/avatar/Havey_Wavey",
+        "text": "Last known location for Havey_Wavey",
         "x": -97.84946874614319,
         "y": 88.0,
         "z": 8.34440442262972
@@ -24401,153 +24527,17 @@ var markersDB={
       }
     ]
   },
-  "Playersaec8_cb34": {
-    "created": false,
-    "name": "Players",
-    "raw": [
-      {
-        "hovertext": "Last known location for Mqstic",
-        "icon": "https://overviewer.org/avatar/Mqstic",
-        "text": "Last known location for Mqstic",
-        "x": 10.231086798617445,
-        "y": 114.27673195792971,
-        "z": 206.36401308332177
-      },
-      {
-        "hovertext": "Last known location for Cowboy_fromHell",
-        "icon": "https://overviewer.org/avatar/Cowboy_fromHell",
-        "text": "Last known location for Cowboy_fromHell",
-        "x": -221.9001699744146,
-        "y": 145.9375,
-        "z": 28.699999988079103
-      },
-      {
-        "hovertext": "Last known location for GoldenEpic",
-        "icon": "https://overviewer.org/avatar/GoldenEpic",
-        "text": "Last known location for GoldenEpic",
-        "x": -150.50946211427578,
-        "y": 119.45579487245114,
-        "z": 142.4730591476822
-      },
-      {
-        "hovertext": "Last known location for Waeluigi",
-        "icon": "https://overviewer.org/avatar/Waeluigi",
-        "text": "Last known location for Waeluigi",
-        "x": 68.55962025143658,
-        "y": 90.3240856676043,
-        "z": 194.7420924072711
-      },
-      {
-        "hovertext": "Last known location for RazzerWolf",
-        "icon": "https://overviewer.org/avatar/RazzerWolf",
-        "text": "Last known location for RazzerWolf",
-        "x": 83.4219014591417,
-        "y": 67.0,
-        "z": 172.85363500951658
-      },
-      {
-        "hovertext": "Last known location for Aliciajo3",
-        "icon": "https://overviewer.org/avatar/Aliciajo3",
-        "text": "Last known location for Aliciajo3",
-        "x": -21.463743812354423,
-        "y": 63.0,
-        "z": 192.31362321628646
-      },
-      {
-        "hovertext": "Last known location for NaleyGaming",
-        "icon": "https://overviewer.org/avatar/NaleyGaming",
-        "text": "Last known location for NaleyGaming",
-        "x": 54.028895137451435,
-        "y": 67.0,
-        "z": 187.1995324869161
-      },
-      {
-        "hovertext": "Last known location for NB_FeaR",
-        "icon": "https://overviewer.org/avatar/NB_FeaR",
-        "text": "Last known location for NB_FeaR",
-        "x": 94.02892026860854,
-        "y": 243.5,
-        "z": 280.13212536337664
-      },
-      {
-        "hovertext": "Last known location for Daddy_Johnny",
-        "icon": "https://overviewer.org/avatar/Daddy_Johnny",
-        "text": "Last known location for Daddy_Johnny",
-        "x": 74.42101458095706,
-        "y": 76.0,
-        "z": 108.44082117528957
-      },
-      {
-        "hovertext": "Last known location for AdvilQueen",
-        "icon": "https://overviewer.org/avatar/AdvilQueen",
-        "text": "Last known location for AdvilQueen",
-        "x": 134.44820160350017,
-        "y": 82.0,
-        "z": 170.96857470410902
-      },
-      {
-        "hovertext": "Last known location for crazyhaleylime",
-        "icon": "https://overviewer.org/avatar/crazyhaleylime",
-        "text": "Last known location for crazyhaleylime",
-        "x": 109.51865476028108,
-        "y": 244.0625,
-        "z": 271.79492026027003
-      },
-      {
-        "hovertext": "Last known location for dazzle1",
-        "icon": "https://overviewer.org/avatar/dazzle1",
-        "text": "Last known location for dazzle1",
-        "x": -268.36897046152717,
-        "y": 88.0,
-        "z": 535.4446174429795
-      },
-      {
-        "hovertext": "Last known location for HeLp_mEeE",
-        "icon": "https://overviewer.org/avatar/HeLp_mEeE",
-        "text": "Last known location for HeLp_mEeE",
-        "x": 36.377165239151616,
-        "y": 63.0,
-        "z": 176.14332945128618
-      },
-      {
-        "hovertext": "Last known location for HavenTheCrab",
-        "icon": "https://overviewer.org/avatar/HavenTheCrab",
-        "text": "Last known location for HavenTheCrab",
-        "x": -97.84946874614319,
-        "y": 88.0,
-        "z": 8.34440442262972
-      },
-      {
-        "hovertext": "Last known location for MasterMike7",
-        "icon": "https://overviewer.org/avatar/MasterMike7",
-        "text": "Last known location for MasterMike7",
-        "x": -20.380753590195358,
-        "y": 63.0,
-        "z": 186.37176310405192
-      }
-    ]
-  },
-  "Signsaeb7_0b90": {
+  "Signs4eb7_596c": {
     "created": false,
     "name": "Signs",
     "raw": []
   },
-  "Signsaeb7_1014": {
+  "Signs4eb7_786c": {
     "created": false,
     "name": "Signs",
     "raw": []
   },
-  "Signsaeb7_2f47": {
-    "created": false,
-    "name": "Signs",
-    "raw": []
-  },
-  "Signsaeb7_58a3": {
-    "created": false,
-    "name": "Signs",
-    "raw": []
-  },
-  "Signsaeb7_a1f3": {
+  "Signs4eb7_a065": {
     "created": false,
     "name": "Signs",
     "raw": [
@@ -29033,7 +29023,17 @@ var markersDB={
       }
     ]
   },
-  "Signsaeb7_cb34": {
+  "Signs4eb7_a7de": {
+    "created": false,
+    "name": "Signs",
+    "raw": []
+  },
+  "Signs4eb7_daf3": {
+    "created": false,
+    "name": "Signs",
+    "raw": []
+  },
+  "Signs4eb7_ff7d": {
     "created": false,
     "name": "Signs",
     "raw": [
