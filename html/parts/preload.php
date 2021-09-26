@@ -9,6 +9,6 @@ header("Link: <https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js
 header("Link: </js/darkMode.js>; as=script; rel=preload", false);
 header("Link: </js/main.js>; as=script; rel=preload", false);
 
-header("Link: <https://b2.demosjarco.dev/file/demosjarco-portfolio/images/logo.svg>; rel=preload; as=image", false);
-header("Link: <https://b2.demosjarco.dev/file/demosjarco-portfolio/images/close-up-code-coding-239898.png>; rel=preload; as=image", false);
+header("Link: <https://cdn.demosjarco.dev/file/demosjarco-portfolio/images/logo.svg>; rel=preload; as=image", false);
+header("Link: <https://cdn.demosjarco.dev/file/demosjarco-portfolio/images/close-up-code-coding-239898.png>; rel=preload; as=image", false);
 ?>

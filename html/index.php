@@ -2,14 +2,14 @@
 // HTTP2 Push
 include_once("./parts/preload.php");
 header("Link: </css/about.css>; as=style; rel=preload", false);
-header("Link: <https://b2.demosjarco.dev/file/demosjarco-portfolio/images/square_logo.svg>; rel=preload; as=image", false);
-header("Link: <https://b2.demosjarco.dev/file/demosjarco-portfolio/images/ua.jpg>; rel=preload; as=image", false);
-header("Link: <https://b2.demosjarco.dev/file/demosjarco-portfolio/images/gcc.png>; rel=preload; as=image", false);
-header("Link: <https://b2.demosjarco.dev/file/demosjarco-portfolio/images/mcc.png>; rel=preload; as=image", false);
-header("Link: <https://b2.demosjarco.dev/file/demosjarco-portfolio/images/srp.jpg>; rel=preload; as=image", false);
-header("Link: <https://b2.demosjarco.dev/file/demosjarco-portfolio/images/psbn.png>; rel=preload; as=image", false);
-header("Link: <https://b2.demosjarco.dev/file/demosjarco-portfolio/images/iclol.png>; rel=preload; as=image", false);
-header("Link: <https://b2.demosjarco.dev/file/demosjarco-portfolio/images/dankBeats.jpg>; rel=preload; as=image", false);
+header("Link: <https://cdn.demosjarco.dev/file/demosjarco-portfolio/images/square_logo.svg>; rel=preload; as=image", false);
+header("Link: <https://cdn.demosjarco.dev/file/demosjarco-portfolio/images/ua.jpg>; rel=preload; as=image", false);
+header("Link: <https://cdn.demosjarco.dev/file/demosjarco-portfolio/images/gcc.png>; rel=preload; as=image", false);
+header("Link: <https://cdn.demosjarco.dev/file/demosjarco-portfolio/images/mcc.png>; rel=preload; as=image", false);
+header("Link: <https://cdn.demosjarco.dev/file/demosjarco-portfolio/images/srp.jpg>; rel=preload; as=image", false);
+header("Link: <https://cdn.demosjarco.dev/file/demosjarco-portfolio/images/psbn.png>; rel=preload; as=image", false);
+header("Link: <https://cdn.demosjarco.dev/file/demosjarco-portfolio/images/iclol.png>; rel=preload; as=image", false);
+header("Link: <https://cdn.demosjarco.dev/file/demosjarco-portfolio/images/dankBeats.jpg>; rel=preload; as=image", false);
 
 $fileName = basename(__FILE__, '.php');
 ?>
