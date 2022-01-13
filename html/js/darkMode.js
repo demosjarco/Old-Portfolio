@@ -57,15 +57,15 @@ function manualDarkMode(checked) {
 	}
 }
 
-$(function() {
-	if (typeof(Storage) !== "undefined") {
-		// Code for localStorage/sessionStorage.
-		var retrievedSettings = JSON.parse(localStorage.getItem('siteSettings'));
+if (typeof (Storage) !== "undefined") {
+	// Code for localStorage/sessionStorage.
+	var retrievedSettings = JSON.parse(localStorage.getItem('siteSettings'));
+	$(function () {
 		$('header nav label input:checkbox').prop('checked', retrievedSettings.darkMode);
-		if (retrievedSettings.darkMode) {
-			makeDark();
-		} else {
-			makeLight();
-		}
+	});
+	if (retrievedSettings.darkMode) {
+		makeDark();
+	} else {
+		makeLight();
 	}
-});
+}
