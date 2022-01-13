@@ -1,15 +1,19 @@
 function makeDark() {
-	$('body').removeClass('light');
-	$('body').addClass('dark');
-	$('div.row div.card').addClass('bg-dark');
-	$('div.row div.card').addClass('text-white');
+	$(function () {
+		$('body').removeClass('light');
+		$('body').addClass('dark');
+		$('div.row div.card').addClass('bg-dark');
+		$('div.row div.card').addClass('text-white');
+	});
 }
 
 function makeLight() {
-	$('body').removeClass('dark');
-	$('body').addClass('light');
-	$('div.row div.card').removeClass('bg-dark');
-	$('div.row div.card').removeClass('text-white');
+	$(function () {
+		$('body').removeClass('dark');
+		$('body').addClass('light');
+		$('div.row div.card').removeClass('bg-dark');
+		$('div.row div.card').removeClass('text-white');
+	});
 }
 
 function myFunction(x) {
