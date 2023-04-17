@@ -18,6 +18,7 @@
 	},
 	"homepage": "https://github.com/demosjarco/Portfolio#readme",
 	"devDependencies": {
-		"less-watch-compiler": "^1.16.3"
+		"less-watch-compiler": "^1.16.3",
+		"prettier": "^2.8.7"
 	}
 }
