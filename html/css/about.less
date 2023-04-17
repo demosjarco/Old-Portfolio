@@ -1,36 +1,36 @@
 body {
-	> div.card {		
-		div.content {			
+	> div.card {
+		div.content {
 			div.picture {
 				min-width: 100px;
 				max-width: 100px;
 				min-height: 100px;
 				max-height: 100px;
 				padding: 15px;
-				
-				background-image: url("https://cdn.demosjarco.dev/file/demosjarco-portfolio/images/square_logo.svg");
+
+				background-image: url('https://cdn.demosjarco.dev/file/demosjarco-portfolio/images/square_logo.svg');
 				background-origin: content-box;
 				background-size: cover;
 				background-repeat: no-repeat;
 				background-position: center center;
-				
+
 				vertical-align: top;
 			}
-			
+
 			div.info {
 				padding: 15px;
-				
+
 				vertical-align: top;
-				
+
 				span.hi {
 					display: inline-block;
 					position: relative;
 					padding: 2px 15px;
 					margin: 8px 0px;
-					
+
 					background-color: #03a9f4;
 					color: white;
-					
+
 					&:after {
 						content: '';
 						position: absolute;
@@ -46,24 +46,27 @@ body {
 						margin-bottom: -8px;
 					}
 				}
-				
+
 				span.title {
 					display: block;
-					
+
 					font-size: xx-large;
-					
+
 					span.name {
 						font-weight: bold;
 					}
 				}
-				
+
 				span.subtitle {
 					font-size: large;
 				}
-				
+
 				p {
 					a {
-						&:link, &:visited, &:hover, &:active {
+						&:link,
+						&:visited,
+						&:hover,
+						&:active {
 							color: red;
 							font-weight: bold;
 							text-decoration: none;
@@ -72,59 +75,62 @@ body {
 				}
 			}
 		}
-		
+
 		footer {
 			width: 100%;
-			
+
 			text-align: center;
-			
-			background-color: #4CD964;
+
+			background-color: #4cd964;
 			color: white;
-			
+
 			a {
-				&:link, &:visited, &:hover, &:active {
+				&:link,
+				&:visited,
+				&:hover,
+				&:active {
 					color: white;
 					text-decoration: none;
 				}
-				
+
 				i {
 					padding: 7.5px;
 				}
 			}
 		}
 	}
-	
+
 	section {
 		padding: 8px;
-		
+
 		> span.title {
 			font-size: 48px;
 			line-height: 48px;
 			vertical-align: text-bottom;
 		}
-		
+
 		div.tiles {
 			display: flex;
-			
+
 			div.tile {
 				width: 250px;
 				height: 250px;
 				margin: 0px 4px;
 				position: relative;
 				overflow: hidden;
-				
-				box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
-				
+
+				box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+
 				text-align: center;
-				
+
 				&:first-child {
 					margin-left: 0px;
 				}
-				
+
 				&:last-child {
 					margin-right: 0px;
 				}
-				
+
 				div.background {
 					position: absolute;
 					left: -10%;
@@ -132,59 +138,62 @@ body {
 					width: 120%;
 					height: 120%;
 					z-index: -2;
-					
+
 					background-size: cover;
 					background-position: center center;
-					
+
 					filter: blur(5px);
 				}
-				
+
 				div.darken {
 					position: absolute;
 					top: 0;
 					width: 100%;
 					height: 100%;
 					z-index: -1;
-					
-					background-color: rgba(0, 0, 0, calc(2/3));
+
+					background-color: rgba(0, 0, 0, calc(2 / 3));
 				}
-				
+
 				p {
 					font-size: medium;
 				}
-				
+
 				div.singlemsg {
-					margin-top: calc((250px - 38px)/2);
+					margin-top: calc((250px - 38px) / 2);
 				}
-				
+
 				a {
-					&:link, &:visited, &:hover, &:active {
+					&:link,
+					&:visited,
+					&:hover,
+					&:active {
 						text-decoration: none;
 						font-weight: bold;
 						color: red;
 					}
 				}
-				
+
 				span.title {
 					display: block;
 					font-size: x-large;
 				}
-				
+
 				span.subtitle {
 					display: block;
 					font-size: large;
 				}
-				
+
 				footer {
 					position: absolute;
 					bottom: 0;
 					width: 100%;
-					
+
 					font: status-bar;
 				}
 			}
 		}
-		
+
 		&.school {
 			div.tiles {
 				div.tile {
@@ -192,25 +201,25 @@ body {
 
 					&.ua {
 						div.background {
-							background-image: url("https://cdn.demosjarco.dev/file/demosjarco-portfolio/images/ua.jpg");
+							background-image: url('https://cdn.demosjarco.dev/file/demosjarco-portfolio/images/ua.jpg');
 						}
 					}
-					
+
 					&.gcc {
 						div.background {
-							background-image: url("https://cdn.demosjarco.dev/file/demosjarco-portfolio/images/gcc.png");
+							background-image: url('https://cdn.demosjarco.dev/file/demosjarco-portfolio/images/gcc.png');
 						}
 					}
-					
+
 					&.mcc {
 						div.background {
-							background-image: url("https://cdn.demosjarco.dev/file/demosjarco-portfolio/images/mcc.png");
+							background-image: url('https://cdn.demosjarco.dev/file/demosjarco-portfolio/images/mcc.png');
 						}
 					}
 				}
 			}
 		}
-		
+
 		&.work {
 			div.tiles {
 				div.tile {
@@ -224,7 +233,7 @@ body {
 
 					&.srp {
 						div.background {
-							background-image: url("https://cdn.demosjarco.dev/file/demosjarco-portfolio/images/srp.jpg");
+							background-image: url('https://cdn.demosjarco.dev/file/demosjarco-portfolio/images/srp.jpg');
 						}
 					}
 				}
@@ -235,29 +244,29 @@ body {
 			div.tiles {
 				div.tile {
 					color: white;
-					
+
 					&.dankBeats {
 						div.background {
-							background-image: url("https://cdn.demosjarco.dev/file/demosjarco-portfolio/images/dankBeats.jpg");
+							background-image: url('https://cdn.demosjarco.dev/file/demosjarco-portfolio/images/dankBeats.jpg');
 						}
 					}
 
 					&.psbn {
 						div.background {
-							background-image: url("https://cdn.demosjarco.dev/file/demosjarco-portfolio/images/psbn.png");
+							background-image: url('https://cdn.demosjarco.dev/file/demosjarco-portfolio/images/psbn.png');
 						}
 					}
 
 					&.iclol {
 						div.background {
-							background-image: url("https://cdn.demosjarco.dev/file/demosjarco-portfolio/images/iclol.png");
+							background-image: url('https://cdn.demosjarco.dev/file/demosjarco-portfolio/images/iclol.png');
 						}
 					}
 				}
 			}
 		}
 	}
-	
+
 	> div.container {
 		div.row {
 			margin: 10px auto;
@@ -278,7 +287,7 @@ body {
 	body {
 		> div.card {
 			width: 75%;
-			
+
 			div.content {
 				div.picture {
 					min-width: 150px;
@@ -296,7 +305,7 @@ body {
 	body {
 		> div.card {
 			width: 50%;
-			
+
 			div.content {
 				div.picture {
 					min-width: 200px;

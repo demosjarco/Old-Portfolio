@@ -24,9 +24,9 @@ function myFunction(x) {
 	}
 }
 
-var x = window.matchMedia("(prefers-color-scheme: dark)")
-myFunction(x) // Call listener function at run time
-x.addListener(myFunction) // Attach listener function on state changes
+var x = window.matchMedia('(prefers-color-scheme: dark)');
+myFunction(x); // Call listener function at run time
+x.addListener(myFunction); // Attach listener function on state changes
 
 if ('AmbientLightSensor' in window) {
 	const sensor = new AmbientLightSensor();
@@ -50,14 +50,14 @@ function manualDarkMode(checked) {
 	} else {
 		makeLight();
 	}
-	if (typeof(Storage) !== "undefined") {
+	if (typeof Storage !== 'undefined') {
 		var retrievedSettings = JSON.parse(localStorage.getItem('siteSettings')) || {};
 		retrievedSettings.darkMode = checked;
 		localStorage.setItem('siteSettings', JSON.stringify(retrievedSettings));
 	}
 }
 
-if (typeof (Storage) !== "undefined") {
+if (typeof Storage !== 'undefined') {
 	// Code for localStorage/sessionStorage.
 	var retrievedSettings = JSON.parse(localStorage.getItem('siteSettings'));
 	$(function () {

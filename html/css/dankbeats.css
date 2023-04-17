@@ -4,7 +4,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Roboto', sans-serif;
-  background-color: #607D8B;
+  background-color: #607d8b;
   color: white;
 }
 body #logo {
@@ -71,7 +71,7 @@ body .segment div#profileContent span#discordButton {
   font-weight: bold;
   text-decoration: none;
   text-align: center;
-  background-color: #23272A;
+  background-color: #23272a;
   color: white;
 }
 body .segment div#profileContent span#discordButton img {
@@ -91,7 +91,7 @@ body .segment div#qualityContent {
   -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
   box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
-  background-color: #43A047;
+  background-color: #43a047;
 }
 body .segment div#qualityContent > * {
   padding: 8px;
@@ -114,7 +114,7 @@ body .segment span.code {
 body .segment div#edm {
   width: 40%;
   height: 260px;
-  background-color: #03A9F4;
+  background-color: #03a9f4;
 }
 body .segment div#edm > div {
   display: inline-block;
@@ -140,7 +140,7 @@ body .segment div#edmContent div#background {
   height: 100%;
   z-index: 0;
   filter: blur(5px);
-  opacity: calc(2/3);
+  opacity: calc(2 / 3);
   background-color: black;
   background-image: url(../dankbeats/img/edcLights.png);
   background-size: cover;
@@ -159,7 +159,7 @@ body .segment div#radio {
   width: 25%;
   height: 250px;
   float: right;
-  background-color: #607D8B;
+  background-color: #607d8b;
 }
 body .segment div#radio div#radioIcon {
   width: 100%;
@@ -174,7 +174,7 @@ body .segment div#radioContent {
   width: 75%;
   height: 250px;
   float: right;
-  background-color: #E53935;
+  background-color: #e53935;
   -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
   box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);

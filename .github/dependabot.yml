@@ -5,10 +5,10 @@
 
 version: 2
 updates:
-  - package-ecosystem: "npm"
-    directory: "/"
+  - package-ecosystem: 'npm'
+    directory: '/'
     # registries:
     #   - npm-github
     schedule:
-      interval: "daily"
+      interval: 'daily'
     open-pull-requests-limit: 10

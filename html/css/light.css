@@ -3,5 +3,5 @@ body.light {
   color: black;
 }
 body.light > div.card {
-  background-color: #F5F5F5;
+  background-color: #f5f5f5;
 }
