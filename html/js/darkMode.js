@@ -24,7 +24,7 @@ function myFunction(x) {
 	}
 }
 
-var x = window.matchMedia('(prefers-color-scheme: dark)');
+let x = window.matchMedia('(prefers-color-scheme: dark)');
 myFunction(x); // Call listener function at run time
 x.addListener(myFunction); // Attach listener function on state changes
 
@@ -51,7 +51,7 @@ function manualDarkMode(checked) {
 		makeLight();
 	}
 	if (typeof Storage !== 'undefined') {
-		var retrievedSettings = JSON.parse(localStorage.getItem('siteSettings')) || {};
+		let retrievedSettings = JSON.parse(localStorage.getItem('siteSettings')) || {};
 		retrievedSettings.darkMode = checked;
 		localStorage.setItem('siteSettings', JSON.stringify(retrievedSettings));
 	}
@@ -59,7 +59,7 @@ function manualDarkMode(checked) {
 
 if (typeof Storage !== 'undefined') {
 	// Code for localStorage/sessionStorage.
-	var retrievedSettings = JSON.parse(localStorage.getItem('siteSettings'));
+	let retrievedSettings = JSON.parse(localStorage.getItem('siteSettings'));
 	$(function () {
 		$('header nav label input:checkbox').prop('checked', retrievedSettings.darkMode);
 	});
