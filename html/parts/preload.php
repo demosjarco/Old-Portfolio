@@ -5,7 +5,7 @@ header("Link: </css/main.css>; as=style; rel=preload", false);
 header("Link: </css/light.css>; as=style; rel=preload", false);
 header("Link: </css/dark.css>; as=style; rel=preload", false);
 
-header("Link: <https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js>; as=script; rel=preload; crossorigin", false);
+header("Link: <https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js>; as=script; rel=preload; crossorigin", false);
 header("Link: </js/darkMode.js>; as=script; rel=preload", false);
 header("Link: </js/main.js>; as=script; rel=preload", false);
 
